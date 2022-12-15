@@ -1,37 +1,14 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -55,7 +32,6 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [MOBILEFIRST] <a name="about-project"></a>
 
@@ -76,6 +52,7 @@ Make sure that there are no linter errors:
     Follow our list of best practices for HTML & CSS.
     Project requirements
     For this project, you should use the HTML&CSS linter
+    This project is built using bootstrap
 
 The 2 sections you need to build for this project are:
 
@@ -83,15 +60,17 @@ the toolbar (or header):
 Toolbar
 
 the headline section (right after the header):
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[Header]**
+- **[Menu]**
+This boostrap portfolio has a responsive menu
 - **[Mobileview]**
+This bootstrap portfolio has a mobile view
 - **[Desktopview]**
+This bootstrap portfolio has a web view
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,75 +96,37 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+You just clone and use 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+No Installation needed
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Clone and use 
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+use Linters and lighthouse 
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+Using Github pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,6 +144,19 @@ Example:
 - Twitter: [@badru](https://twitter.com/BadruNdawula)
 - Linkedin: [@badru](https://www.linkedin.com/in/badru-ndawula-930b7b217/)
 
+👤 **Author2**
+
+👤 **Sammy**
+-GitHub: [@sammy3000](https://github.com/Sammy3000)
+-Twitter:[@sammy3000](https://twitter.com/sammy3000)
+
+👤 **Author2**
+
+👤 **Fitz Gerald **
+-GitHub: [@fitz95](https://github.com/fitz95)
+-Twitter:[@fitz95](https://twitter.com/nsonggerald)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,8 +167,9 @@ Example:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[header]**
+ A more descriptive header
 - [ ] **[mobileview]**
-
+ Better Mobile view
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -231,9 +186,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project follow us 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,9 +195,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all the memebers of the team and our contributors
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,13 +206,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Is this a longtern project]**
 
-  - [Answer_1]
+  - [Yes it is]
 
-- **[Question_2]**
+- **[When are further changes and how should other developer contribute]**
 
-  - [Answer_2]
+  - [Create Issues and message us ]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
