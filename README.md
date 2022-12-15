@@ -67,14 +67,6 @@ the headline section (right after the header):
 - **[Desktopview]**
   This bootstrap portfolio has a web view
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/Sammy3000/codingwithbootstrap)
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
